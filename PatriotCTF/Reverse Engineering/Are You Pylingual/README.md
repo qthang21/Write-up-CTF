@@ -114,5 +114,5 @@ print(flag)
 ```
 <img width="684" height="409" alt="image" src="https://github.com/user-attachments/assets/7b425916-ac69-4f37-86b4-f05fe0da76f0" />
 
-Flag = Pctf{obFusc4ti0n_i5n't_EncRypt1oN}
+Flag = pctf{obFusc4ti0n_i5n't_EncRypt1oN}
 
