@@ -158,14 +158,6 @@ Sau khi biến đổi xong, kết quả phải bằng đúng mảng TARGET.
 
 → Muốn tìm input đúng, ta cần đảo ngược các bước theo chiều ngược lại.
 
-### Cách giải
-Ta sẽ đảo ngược lại các bước là sẽ tìm được Flag
-
-1) XOR với vị trí i
-2) Trừ MAGIC_ADD (0x2A)
-3) Swap lại các cặp trước đó bị đổi
-4) XOR với ky xoay vòng XOR_KEY[i % 5]
-
 ### Script
 ```py
 #!/usr/bin/env python3
